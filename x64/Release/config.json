@@ -1,0 +1,27 @@
+{
+    "automatic_update": false,
+    "esp_box_color_enemy": [
+        175,
+        75,
+        75
+    ],
+    "esp_box_color_team": [
+        75,
+        175,
+        75
+    ],
+    "esp_distance_color": [
+        75,
+        75,
+        175
+    ],
+    "esp_name_color": [
+        75,
+        75,
+        175
+    ],
+    "flag_render_distance": 200,
+    "render_distance": -1.0,
+    "show_extra_flags": false,
+    "team_esp": false
+}

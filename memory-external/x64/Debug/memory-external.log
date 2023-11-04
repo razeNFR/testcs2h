@@ -1,0 +1,52 @@
+﻿  auto_updater.cpp
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\classes\auto_updater.cpp(103,32): warning C4101: 'e' : variable locale non référencée
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\classes\auto_updater.cpp(180,32): warning C4101: 'e' : variable locale non référencée
+  config.cpp
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\classes\config.cpp(16,32): warning C4101: 'e' : variable locale non référencée
+  main.cpp
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\memory\memory.hpp(97,1): warning C4267: 'argument' : conversion de 'size_t' en 'ULONG', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(56,6): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(55,6): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(54,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(53,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(63,17): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(62,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(141,25): warning C4244: 'initialisation' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(148,6): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(147,6): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(146,16): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(145,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(157,13): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(155,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(154,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(166,13): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(164,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(163,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(177,16): warning C4244: 'argument' : conversion de 'const float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(176,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(192,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(191,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(205,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(204,19): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(245,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(244,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(254,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(253,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(263,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(262,20): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(274,21): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(273,21): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(287,21): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\hacks\hack.hpp(286,21): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\main.cpp(129,87): warning C4312: 'reinterpret_cast' : la conversion de 'LONG' en 'HINSTANCE' d'une taille supérieure
+  memory.cpp
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\memory\memory.hpp(97,1): warning C4267: 'argument' : conversion de 'size_t' en 'ULONG', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\memory\handle_hijack.hpp(197,12): warning C4244: '*=' : conversion de 'double' en 'DWORD', perte possible de données
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\memory\handle_hijack.hpp(248,64): warning C4312: 'cast de type' : la conversion de 'ULONG' en 'DWORD *' d'une taille supérieure
+  Génération de code en cours...
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\memory-external\classes\vector.hpp(27): warning C4172: retourne l'adresse d'une variable locale ou  temporaire
+auto_updater.obj : error LNK2019: symbole externe non résolu __imp_InternetOpenA référencé dans la fonction "bool __cdecl updater::download_file(char const *,char const *)" (?download_file@updater@@YA_NPEBD0@Z)
+auto_updater.obj : error LNK2019: symbole externe non résolu __imp_InternetCloseHandle référencé dans la fonction "bool __cdecl updater::download_file(char const *,char const *)" (?download_file@updater@@YA_NPEBD0@Z)
+auto_updater.obj : error LNK2019: symbole externe non résolu __imp_InternetOpenUrlA référencé dans la fonction "bool __cdecl updater::download_file(char const *,char const *)" (?download_file@updater@@YA_NPEBD0@Z)
+auto_updater.obj : error LNK2019: symbole externe non résolu __imp_InternetReadFile référencé dans la fonction "bool __cdecl updater::download_file(char const *,char const *)" (?download_file@updater@@YA_NPEBD0@Z)
+D:\Users\robin\Downloads\cs2-external-esp-main latest\cs2-external-esp-main\x64\Debug\cs2-external-esp-gdi.exe : fatal error LNK1120: 4 externes non résolus
